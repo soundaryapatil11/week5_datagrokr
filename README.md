@@ -1,4 +1,4 @@
-# SQL Dimensional Report — Week 5
+# SQL Dimensional Report — Week 5 datagrokr
 
 ## Project
 E-Commerce Sales Analytics using SQL Dimensional Modeling.
@@ -45,5 +45,4 @@ E-Commerce Sales Analytics using SQL Dimensional Modeling.
 - Customer sales
 - EXPLAIN-based optimization
 
-## Author
-soundarya
+#
