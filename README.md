@@ -46,4 +46,4 @@ E-Commerce Sales Analytics using SQL Dimensional Modeling.
 - EXPLAIN-based optimization
 
 ## Author
-Sahil Saurav
+soundarya
